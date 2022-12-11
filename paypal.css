@@ -14,9 +14,10 @@ padding-top: 15px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     width: 100%;
+    cursor: default;
 }
 .personal :hover{
-   margin-bottom: 20px blue; 
+   margin-bottom: 20px blue;  
 }
 .img1 img{
     width: 100%;
@@ -97,4 +98,12 @@ padding-top: 15px;
     padding: 20px;
     background-color: aliceblue;
 }
-.
+.stage6{
+    margin-top: 700px;
+    margin-left: 39px;
+}
+.stage6 a{
+    text-decoration: none;
+    padding-right: 70px;
+    color: black;
+}
