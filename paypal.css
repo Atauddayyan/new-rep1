@@ -17,7 +17,7 @@ padding-top: 15px;
     cursor: default;
 }
 .personal :hover{
-   margin-bottom: 20px blue;  
+   margin-bottom: 20px blue;
 }
 .img1 img{
     width: 100%;
@@ -105,5 +105,30 @@ padding-top: 15px;
 .stage6 a{
     text-decoration: none;
     padding-right: 70px;
-    color: black;
+    color: grey;
+    font-weight: 800;
+    justify-content: space-around;
+}
+.stage6_1{
+    padding-left: 8px;
+    padding-top: 10px;
+}
+.stage6_1 a{
+    text-decoration: none;
+    color: #808080;
+    font-size: 13px;
+    margin-left: 35px;
+}
+.stage6_1 div{
+    float: right;
+}
+.stage6_1 div span{
+    margin-right: 20px;
+    font-size: 13px;
+    color: #808080;
+}
+.last_stage{
+    margin-left: 39px;
+    font-size: 13px;
+    margin-right: 12px;
 }
